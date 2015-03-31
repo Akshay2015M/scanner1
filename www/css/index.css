@@ -3,6 +3,8 @@ body {
 }
 
 button {
-    width: 100%;
+	float:left;
+	margin-left:25%;
+    width: 70%;
     height: 30px;
 }
